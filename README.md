@@ -1,6 +1,6 @@
 # Data Analysis and ML Projects
 
-A collection of personal projects where I explored real datasets and built predictive models. Each one started with a question I actually wanted to answer.
+A collection of personal projects where I explored real datasets and built predictive models.
 
 ---
 
